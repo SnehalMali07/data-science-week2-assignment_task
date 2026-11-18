@@ -18,7 +18,7 @@ Python, pandas, numpy, matplotlib, seaborn, scikit-learn, Jupyter Notebook (VS C
 
 ## Folder Structure
 ```
-data-science-week2-assignment/
+data-science-week2-assignment_task/
 ├── data/
 │   ├── raw/
 │   └── cleaned/
@@ -39,6 +39,7 @@ data-science-week2-assignment/
 - `reports/task1_notebook_export.pdf`: Task 1 notebook export
 - `reports/task2_eda.pdf`: Task 2 notebook export (EDA report)
 - `reports/task3_sales_prediction.pdf`: Task 3 notebook export
+- `reports/week2_Final_Report.pdf`: Week2 Final Report of All 3 Tasks
 
 ## How to Run
 1. Install the packages: `pip install -r requirements.txt`
